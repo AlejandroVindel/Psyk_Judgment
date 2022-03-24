@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfcf9ca3fb8c6604ab2b0d65e6e35811, type: 3}
+  m_Name: Inicial
+  m_EditorClassIdentifier: 
+  persona:
+  - nombre: Monaguillo
+    fotito: {fileID: 0}
+  - nombre: Psyk
+    fotito: {fileID: 0}
+  dialogos:
+  - indiceHablante: 1
+    dialogo: "\xBFQuien eres?"
+  - indiceHablante: 0
+    dialogo: Muy buneas Psyk
+  - indiceHablante: 1
+    dialogo: "\xBFC\xF3mo sabes mi nombre?"
+  - indiceHablante: 0
+    dialogo: "Se m\xE1s de todo de t\xED"
+  - indiceHablante: 0
+    dialogo: Soy el Monaguillo
+  - indiceHablante: 0
+    dialogo: "Y se que est\xE1s aqu\xED para superar a los 7 pecados capitales"
+  - indiceHablante: 1
+    dialogo: "As\xED es..."
+  - indiceHablante: 0
+    dialogo: Pues este camino no es facil, muchos lo han intentado y muy pocos lo
+      han conseguido
+  - indiceHablante: 0
+    dialogo: O ninguno...
+  - indiceHablante: 0
+    dialogo: Buena suerte en tu camino

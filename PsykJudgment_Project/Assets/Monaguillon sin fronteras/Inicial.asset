@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfcf9ca3fb8c6604ab2b0d65e6e35811, type: 3}
+  m_Name: Inicial
+  m_EditorClassIdentifier: 
+  persona:
+  - nombre: Knight
+    fotito: {fileID: 0}
+  - nombre: El monaguillo
+    fotito: {fileID: 0}
+  dialogos:
+  - indiceHablante: 1
+    dialogo: Tio, joder es que, tio, joder joder joder
+  - indiceHablante: 0
+    dialogo: "Qu\xE9 te pasa que te pasa"
+  - indiceHablante: 1
+    dialogo: aaaaaaaaaaaaaaaaaaaaaaaaaaaaa

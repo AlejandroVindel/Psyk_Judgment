@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfcf9ca3fb8c6604ab2b0d65e6e35811, type: 3}
+  m_Name: "2\xBAMapa"
+  m_EditorClassIdentifier: 
+  persona:
+  - nombre: Monaguillo
+    fotito: {fileID: 0}
+  - nombre: Psyk
+    fotito: {fileID: 0}
+  dialogos:
+  - indiceHablante: 1
+    dialogo: "\xBFC\xF3mo te mueves t\xE1n r\xE1pido?"
+  - indiceHablante: 0
+    dialogo: "Esa no es la cuesti\xF3n"
+  - indiceHablante: 0
+    dialogo: "\xA1Has logrado superar la primera fase del mapa!"
+  - indiceHablante: 0
+    dialogo: Una pena que solo sea el principio...
