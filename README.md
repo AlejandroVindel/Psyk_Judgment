@@ -1,5 +1,5 @@
 # Psyk Judgment
-Videojuego 2D, desarrollado para el concurso de videojuegos de IMF. Segundo puesto en el concurso.
+## Videojuego 2D, desarrollado para el concurso de videojuegos de IMF. Segundo puesto en el concurso.
 ![menuBg3](https://user-images.githubusercontent.com/102309882/167379568-9f4eb5de-bf28-4048-831a-071f83c8108d.png)
 
 Historia del videojuego:
